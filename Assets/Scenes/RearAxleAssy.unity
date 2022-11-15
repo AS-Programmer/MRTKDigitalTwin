@@ -1934,17 +1934,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2451824639791297656, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
   m_PrefabInstance: {fileID: 2451824641160088159}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1370160682 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2451824639791297653, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
-  m_PrefabInstance: {fileID: 2451824641160088159}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a98de877dee5fc341b4eb59dfdab266c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1412452066
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3505,7 +3494,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8503270331930508642, guid: 548bb6ef5ebe9184cada81ae268e5239, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.017
+      value: 0.669
       objectReference: {fileID: 0}
     - target: {fileID: 8503270331930508642, guid: 548bb6ef5ebe9184cada81ae268e5239, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3674,7 +3663,7 @@ Transform:
   m_GameObject: {fileID: 2088798204}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0.13499999, y: 0.17, z: -0.8959999}
-  m_LocalScale: {x: 0.1, y: 5, z: 3}
+  m_LocalScale: {x: 0.1, y: 2, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1690567200}
@@ -3757,27 +3746,27 @@ PrefabInstance:
     - target: {fileID: 2451824639791297654, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639804505758, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639858649500, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639870979414, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639877427923, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639886180139, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639891536687, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: hostTransform
       value: 
@@ -3785,43 +3774,43 @@ PrefabInstance:
     - target: {fileID: 2451824639891536687, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639912347769, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824639965494411, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640316013137, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640331298063, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640341927424, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640469731293, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640501788010, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640513040909, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640532663034, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640552986694, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: hostTransform
       value: 
@@ -3829,71 +3818,71 @@ PrefabInstance:
     - target: {fileID: 2451824640552986694, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640575540855, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640670120206, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640691112674, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640726782183, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640820973693, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640821037889, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640856141120, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824640926702754, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641000782989, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641075794354, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641090058396, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641185257455, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641227611923, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641311347309, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641317413717, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641328599325, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641483305926, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -3965,19 +3954,19 @@ PrefabInstance:
     - target: {fileID: 2451824641513554716, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641515406167, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641539032115, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641636131048, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641637542944, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: hostTransform
       value: 
@@ -3985,19 +3974,19 @@ PrefabInstance:
     - target: {fileID: 2451824641637542944, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641738279727, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641757646580, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     - target: {fileID: 2451824641838984171, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
       propertyPath: constraintsManager
       value: 
-      objectReference: {fileID: 1370160682}
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2451824641483305929, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
     - {fileID: 2451824641483305928, guid: 300d91552288c7a4eb5014abfcc6f923, type: 3}
